@@ -1,5 +1,5 @@
 # final.py
-# ARMIN SANDHU, JESSICA TRAN, BLOCK 4, ENDG 233 F21
+# ARMIN SANDHU, JESSICA TRAN
 # A terminal-based application to process and plot data based on given user input and provided csv files.
 import numpy as np
 import matplotlib.pyplot as plt
